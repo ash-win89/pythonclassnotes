@@ -1,0 +1,21 @@
+﻿ASSIGNMENT CONDUCTED:
+
+SEPT-OCT -EVENING BATCH:
+14-09-2022-assignment   		name  				completed status  
+
+datascience-pandas			selvanayagi			pending
+django – fieldsTypes			rajib				pending
+
+15-09-2022-Morning batch
+	
+datascience – numpy			payal				pending
+django – adminMethods		kavitha				pending
+
+
+19-09-2022:morning batch
+
+webscrap -- bs4			brinda				pending
+serverside --os (lib)			ANWAdhi			pending
+
+
+#assignments that we can assign --import os, beautifulSoup4,requests,glob,joblib, future,platform,all the keywords and its uses, geopy

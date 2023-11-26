@@ -1,0 +1,267 @@
+[
+  {
+    "1": 2,
+    "445110": 445120,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Convenience Stores"
+  },
+  {
+    "1": 3,
+    "445110": 446110,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Pharmacies and Drug Stores"
+  },
+  {
+    "1": 4,
+    "445110": 446130,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Optical Goods Stores"
+  },
+  {
+    "1": 5,
+    "445110": 446191,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Food (Health) Supplement Stores"
+  },
+  {
+    "1": 6,
+    "445110": 446199,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "All Other Health and Personal Care Stores"
+  },
+  {
+    "1": 7,
+    "445110": 711211,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Sports Teams and Clubs"
+  },
+  {
+    "1": 8,
+    "445110": 713910,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Golf Courses and Country Clubs"
+  },
+  {
+    "1": 9,
+    "445110": 713920,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Skiing Facilities"
+  },
+  {
+    "1": 10,
+    "445110": 713940,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Fitness and Recreational Sports Centers"
+  },
+  {
+    "1": 11,
+    "445110": 812191,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Diet and Weight Reducing Centers"
+  },
+  {
+    "1": 12,
+    "445110": 621111,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Physicians (except Mental Health Specialists)"
+  },
+  {
+    "1": 13,
+    "445110": 621112,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Physicians, Mental Health Specialists"
+  },
+  {
+    "1": 14,
+    "445110": 621210,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Dentists"
+  },
+  {
+    "1": 15,
+    "445110": 621310,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Chiropractors"
+  },
+  {
+    "1": 16,
+    "445110": 621320,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Optometrists"
+  },
+  {
+    "1": 17,
+    "445110": 621330,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Mental Health Practitioners (except Physicians)"
+  },
+  {
+    "1": 18,
+    "445110": 621340,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+  },
+  {
+    "1": 19,
+    "445110": 621391,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of Podiatrists"
+  },
+  {
+    "1": 20,
+    "445110": 621399,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Offices of All Other Miscellaneous Health Practitioners"
+  },
+  {
+    "1": 21,
+    "445110": 621410,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Family Planning Centers"
+  },
+  {
+    "1": 22,
+    "445110": 621420,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Outpatient Mental Health and Substance Abuse Centers"
+  },
+  {
+    "1": 23,
+    "445110": 621491,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "HMO Medical Centers"
+  },
+  {
+    "1": 24,
+    "445110": 621492,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Kidney Dialysis Centers"
+  },
+  {
+    "1": 25,
+    "445110": 621493,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Freestanding Ambulatory Surgical and Emergency Centers"
+  },
+  {
+    "1": 26,
+    "445110": 621498,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "All Other Outpatient Care Centers"
+  },
+  {
+    "1": 27,
+    "445110": 621511,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Medical Laboratories"
+  },
+  {
+    "1": 28,
+    "445110": 621512,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Diagnostic Imaging Centers"
+  },
+  {
+    "1": 29,
+    "445110": 621610,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Home Health Care Services"
+  },
+  {
+    "1": 30,
+    "445110": 621910,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Ambulance Services"
+  },
+  {
+    "1": 31,
+    "445110": 621991,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Blood and Organ Banks"
+  },
+  {
+    "1": 32,
+    "445110": 621999,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "All Other Miscellaneous Ambulatory Health Care Services"
+  },
+  {
+    "1": 33,
+    "445110": 622110,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "General Medical and Surgical Hospitals"
+  },
+  {
+    "1": 34,
+    "445110": 622210,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Psychiatric and Substance Abuse Hospitals"
+  },
+  {
+    "1": 35,
+    "445110": 622310,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Specialty (except Psychiatric and Substance Abuse) Hospitals"
+  },
+  {
+    "1": 36,
+    "445110": 623110,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Nursing Care Facilities (Skilled Nursing Facilities)"
+  },
+  {
+    "1": 37,
+    "445110": 623210,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Residential Intellectual and Developmental Disability Facilities"
+  },
+  {
+    "1": 38,
+    "445110": 623220,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Residential Mental Health and Substance Abuse Facilities"
+  },
+  {
+    "1": 39,
+    "445110": 623311,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Continuing Care Retirement Communities"
+  },
+  {
+    "1": 40,
+    "445110": 623312,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Assisted Living Facilities for the Elderly"
+  },
+  {
+    "1": 41,
+    "445110": 623990,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Other Residential Care Facilities"
+  },
+  {
+    "1": 42,
+    "445110": 624110,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Child and Youth Services"
+  },
+  {
+    "1": 43,
+    "445110": 624120,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Services for the Elderly and Persons with Disabilities"
+  },
+  {
+    "1": 44,
+    "445110": 624190,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Other Individual and Family Services"
+  },
+  {
+    "1": 45,
+    "445110": 624210,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Community Food Services"
+  },
+  {
+    "1": 46,
+    "445110": 624221,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Temporary Shelters"
+  },
+  {
+    "1": 47,
+    "445110": 624229,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Other Community Housing Services"
+  },
+  {
+    "1": 48,
+    "445110": 624230,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Emergency and Other Relief Services"
+  },
+  {
+    "1": 49,
+    "445110": 624310,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Vocational Rehabilitation Services"
+  },
+  {
+    "1": 50,
+    "445110": 624410,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Child Day Care Services"
+  },
+  {
+    "1": 51,
+    "445110": 722511,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Full-Service Restaurants"
+  },
+  {
+    "1": 52,
+    "445110": 722513,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Limited-Service Restaurants"
+  },
+  {
+    "1": 53,
+    "445110": 722514,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Cafeterias, Grill Buffets, and Buffets"
+  },
+  {
+    "1": 54,
+    "445110": 722515,
+    "Supermarkets and Other Grocery (except Convenience) Stores": "Snack and Nonalcoholic Beverage Bars"
+  }
+]
